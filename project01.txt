@@ -1,0 +1,19 @@
+1. Your full name: 
+
+2. Your USD email address: 
+
+3. A typed copy of USD's academic integrity pledge, found on page 3 of 
+   https://www.sandiego.edu/conduct/documents/HonorCode.pdf.
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+
+4. Hours spent on project:
+	- Wireshark Analysis:
+	- C programming:
+
+5. Missing features and/or known bugs:
+
+6. Project bucks used:
+	- This project:
+	- So far this semester:
+
+7. (Optional) Comments:	
