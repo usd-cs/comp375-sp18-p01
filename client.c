@@ -9,6 +9,8 @@
  * TODO: Add file description here.
  */
 
+#define _XOPEN_SOURCE 600
+
 #include <errno.h>
 #include <limits.h>
 #include <stdlib.h>
