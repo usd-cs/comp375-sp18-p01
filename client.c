@@ -132,5 +132,7 @@ int connectToHost(char *hostname, char *port) {
 		exit(1);
 	}
 
+	freeaddrinfo(servinfo); // free's the memory allocated by getaddrinfo
+
 	return fd;
 }
